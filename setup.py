@@ -31,5 +31,5 @@ setup(
         [console_scripts]
         fandogh=fandogh_cli.fandogh:base
     ''',
-
+    scripts=['complete.sh'],
 )
